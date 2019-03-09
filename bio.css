@@ -1,0 +1,36 @@
+        #division {
+            width: 1024px;
+            margin: auto;
+        }
+
+        header {
+            background-color: lightgray;
+            text-align: center;
+            padding-top: 10px;
+        }
+
+        a {
+            color: red;
+        }
+
+        #main,
+        #img,
+        #info {
+            float: left;
+        }
+
+        #main {
+            width: 70%;
+            font-size: 24px;
+        }
+
+        #info {
+            width: 30%;
+            font-size: 24px;
+        }
+
+        #img {
+            width: 200px;
+            height: 200px;
+            padding-right: 20px;
+        }
